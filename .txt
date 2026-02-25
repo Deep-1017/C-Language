@@ -1,0 +1,19 @@
+Algorithm: 
+
+// Avg of 3 numbers
+Start
+    1. Take 3 numbers a, b, c as an input
+    2. sum = a + b + c
+    3. avg = sum / 3
+    4. Print the result of avg as an output
+End
+
+
+// Volume of Cylinder = pi * r * r * h
+
+Start
+    1. pi = 3.14
+    2. Take 2 values r, h as an input
+    3. Volume = pi * r * r * h
+    4. Print the value of volume as an output
+End
