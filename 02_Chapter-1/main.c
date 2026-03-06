@@ -20,6 +20,12 @@ int main() {
 
     char a = 65;
 
+    printf("%d\n", sizeof(Num2));
+    printf("%d\n", sizeof(num2));
+    printf("%d\n", sizeof(a));
+
+    printf("-----------------------------------");
+
     printf("%c\n", a);
 
     printf("%c\n", num);
