@@ -17,3 +17,18 @@ Start
     3. Volume = pi * r * r * h
     4. Print the value of volume as an output
 End
+
+
+
+Conditionals => if
+
+
+
+Algorithm -> Even or Odd
+
+Start
+    1. Take a int number as an input
+    2. if (num % 2 == 0) true goto 3 else goto 4
+    3. print Even number
+    4. print odd number
+End
