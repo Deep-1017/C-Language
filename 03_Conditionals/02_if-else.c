@@ -2,7 +2,6 @@
 #include<stdbool.h>
 
 int main() {
-
     bool isRain = true;
 
     // If Else Statement
