@@ -32,3 +32,11 @@ Start
     3. print Even number
     4. print odd number
 End
+
+
+
+
+Loops: 
+    1. While
+    2. Do While
+    3. For
