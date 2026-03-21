@@ -40,3 +40,28 @@ Loops:
     1. While
     2. Do While
     3. For
+
+Loop definitions:
+    While loop:
+        - Executes a block of code repeatedly as long as a condition is true.
+        - Condition checked before each iteration (entry-controlled).
+        - Syntax:
+            while (condition) {
+                // statements
+            }
+
+    Do-While loop:
+        - Executes a block of code once and then repeats while a condition is true.
+        - Condition checked after each iteration (exit-controlled).
+        - Syntax:
+            do {
+                // statements
+            } while (condition);
+
+    For loop:
+        - Executes a block a known number of times, with init, condition, and update.
+        - Common for counted iteration.
+        - Syntax:
+            for (init; condition; update) {
+                // statements
+            }
