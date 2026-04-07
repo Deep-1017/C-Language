@@ -67,3 +67,8 @@ Loop definitions:
             }
 
     End of Loops
+
+
+
+digit = 4
+reverse = 0*10 + 4 = 4
